@@ -3,8 +3,8 @@ title: "Introduction to Diffusion"
 teaching: 20
 exercises: 5
 questions:
-- "How is dMRI data represented"
-- "What is diffusion weighting"
+- "How is dMRI data represented?"
+- "What is diffusion weighting?"
 objectives:
 - "Representation of diffusion data and associated gradients"
 - "Learn about diffusion gradients"
